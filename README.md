@@ -3,7 +3,7 @@
 A React-Native application that uses voice commands and text-to-speech to help you read your emails.
 
 ## Demo
-Will fill this section with pictures and a link to a youtube video (https://stackoverflow.com/a/14945782/9414656) to demo
+[![emailassistant demo](https://img.youtube.com/vi/7jYvJ-qesJM/0.jpg)](https://youtu.be/7jYvJ-qesJM)
 
 ## Notes
  * Currently only works with Outlook email accounts (hotmail, outlook, office365). Gmail is shown in the accounts listing but isn't implemented (just for show).

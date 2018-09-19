@@ -58,4 +58,4 @@ buck-out/
 # Config
 .env
 
-*.mp4
+demo/
